@@ -1,3 +1,1 @@
-- **[📋 Syllabus](/README.md)**
-  - [Getting Started](Lessons/01)
-- **🗒️Assessments**
+- **[📋 Setting Up!](/README.md)**
