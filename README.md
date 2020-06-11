@@ -50,5 +50,15 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/too
 
 More info on the [github page](https://github.com/ohmyzsh/ohmyzsh)
 
+## Enviroment
+
+For MacOs students you can see hidden files and folder you will be working with all you have to do is go into finder and press `⌘ + LShift + .`
+
+For Linunx students you can press `Crtl + H` in your finder
+
+For Windows students you can follow these [instructions](https://support.microsoft.com/en-us/help/4028316/windows-view-hidden-files-and-folders-in-windows-10#:~:text=Open%20File%20Explorer%20from%20the,folders%2C%20and%20drives%20and%20OK.)
+
+## Git
+
 
 
