@@ -1,20 +1,16 @@
-# DevOps: 
+# DevOps: Computer Setup
 
-1. [Course Description](#course-description)
-2. [Prerequisites](#prerequisites)
-3. [Learning Outcomes](#learning-outcomes)
-4. [Lessons](#lessons)
+1. [Welcome](#Welcome)
+1. [Prerequisites](#prerequisites)
 
-## Course Description
+
+## Welcome
+
+Welcome to the Tekperfect: DevOps program. This will be the start of your learning journey to
+becoming a fellow DevOps Engineer. However before every great journey we need to prepare, here is a step to step guide to installing packanges, and preparing your computer for the journey ahead.
 
 ## Prerequisites
 
+There is none!
 
-## Learning Outcomes
-
-Students by the end of the course will be able to...
-
-...
-
-## Lessons
 
