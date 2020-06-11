@@ -50,7 +50,7 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/too
 
 More info on the [github page](https://github.com/ohmyzsh/ohmyzsh)
 
-## Enviroment
+## Explorer
 
 For MacOs students you can see hidden files and folder you will be working with all you have to do is go into finder and press `⌘ + LShift + .`
 
@@ -58,7 +58,46 @@ For Linunx students you can press `Crtl + H` in your finder
 
 For Windows students you can follow these [instructions](https://support.microsoft.com/en-us/help/4028316/windows-view-hidden-files-and-folders-in-windows-10#:~:text=Open%20File%20Explorer%20from%20the,folders%2C%20and%20drives%20and%20OK.)
 
-## Git
+## Git 
+
+Git and Github are crucial to the development side of DevOps engineers. Here is a short [video](https://www.youtube.com/watch?time_continue=10&v=OqmSzXDrJBk&feature=emb_logo) that explains everything about git!
+
+So if you havent already set up a [github account](https://github.com/join)
+
+Now all we have to do is set up your git in your terminal
+
+Do the folling:
+```bash
+git config --global user.name "NAME"
+git config --global user.email "EMAIL"
+```
+
+Double Check your configs
+```bash
+git config --list
+```
+
+After we have that done, let's set up a secure way to update your projects with SSH keys:
+
+Move into your `.ssh/` folder and type the following
+**Leave the password blank**
+```bash
+ssh-keygen -t rsa -C "EMAIL" -b 4096
+```
+
+```bash 
+cat ~/.ssh/id_rsa.pub
+```
+Then we copy your key over to github in the [SSH and GPG keys section](https://github.com/settings/keys)
+
+Enter a title and copy paste your **entire** ssh key ending with your email and tof inally check type:
+
+```bash
+ssh -T git@github.com
+```
+
+
+
 
 
 
