@@ -1,1 +1,0 @@
-- **[📋 Setting Up!](/README.md)**

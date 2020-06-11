@@ -1,23 +1,27 @@
-# DevOps: Computer Setup
+# **📋 Dev Ops: Computer Setup**
 
-1. [Welcome](#welcome)
-1. [Prerequisites](#prerequisites)
-1. [Terminal](#terminal)
+1. [👋 Welcome](#👋-welcome)
+1. [💡 Prerequisites](#💡-prerequisites)
+1. [📦 Package Manager](#📦-package-manager)
+1. [⬛ Terminal](#⬛-terminal)
+1. [📁 Explorer](#📁-explorer)
+1. [🚀 Git](#🚀-git)
 
 
-## Welcome
+
+## 👋 Welcome
 
 Welcome to the Tekperfect: DevOps program. This will be the start of your learning journey to
 becoming a fellow DevOps Engineer. However before every great journey we need to prepare, here is a step to step guide to installing packanges, and preparing your computer for the journey ahead.
 
 This setup guide will be along the lines of unix based system. But due to the recent addition of WSL you can follow along too.
 
-## Prerequisites
+## 💡 Prerequisites
 
 There is none!
 
 
-## Package Manager
+## 📦 Package Manager
 
 So first thing first let's install a package manager. Package managers are extremmly useful and allows us to install and appropiate tools and we'll be using [brew](https://brew.sh/)
 
@@ -36,7 +40,7 @@ curl -s -L https://raw.githubusercontent.com/alfonsoh/scripts/master/bash/devops
 This will install: `wget`, `caskroom/cask` , `docker`, `python3`, `git`, `kubernates`, and `virtual box` 
 
 
-## Terminal
+## ⬛ Terminal
 
 You will be spending a lot of your time within the terminal so lets make the experince more enjoyable [ it'll make you look like a pro too! ]:
 
@@ -50,7 +54,7 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/too
 
 More info on the [github page](https://github.com/ohmyzsh/ohmyzsh)
 
-## Explorer
+## 📁 Explorer
 
 For MacOs students you can see hidden files and folder you will be working with all you have to do is go into finder and press `⌘ + LShift + .`
 
@@ -58,7 +62,7 @@ For Linunx students you can press `Crtl + H` in your finder
 
 For Windows students you can follow these [instructions](https://support.microsoft.com/en-us/help/4028316/windows-view-hidden-files-and-folders-in-windows-10#:~:text=Open%20File%20Explorer%20from%20the,folders%2C%20and%20drives%20and%20OK.)
 
-## Git 
+## 🚀 Git 
 
 Git and Github are crucial to the development side of DevOps engineers. Here is a short [video](https://www.youtube.com/watch?time_continue=10&v=OqmSzXDrJBk&feature=emb_logo) that explains everything about git!
 
